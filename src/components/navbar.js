@@ -1,10 +1,9 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { Text, View } from "react-native";
 
 export default function navbar() {
   return (
     <View>
-      <Text>navbar</Text>
+      <Text>UMUT EMBESİL</Text>
     </View>
-  )
+  );
 }
