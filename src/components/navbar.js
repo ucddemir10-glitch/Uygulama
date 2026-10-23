@@ -4,7 +4,7 @@ import React from 'react'
 export default function navbar() {
   return (
     <View>
-      <Text>navbar</Text>
+      <Text>navbar EZGİ ÇOOK KOMİKSİN</Text>
     </View>
   )
 }
